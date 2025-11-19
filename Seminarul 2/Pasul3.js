@@ -22,3 +22,4 @@ function verificare(sir1,sir2)
         return numar;
 }
 console.log(verificare('abc','bcd'))
+console.log(verificare('abc','abd'))
